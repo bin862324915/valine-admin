@@ -30,7 +30,7 @@
 
 然后进入 [Leancloud](https://leancloud.cn/dashboard/applist.html#/apps) 对应的 Valine 应用中。
 
-点击 `云引擎 -> 设置` 填写代码库并保存：`https://github.com/wiidede/Valine-Admin`
+点击 `云引擎 -> 设置` 填写代码库并保存：`https://github.com/bin862324915/valine-admin`
 
 <img width="700" src="https://cdn.jun6.net/201804211508_545.png" />
 
